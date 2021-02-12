@@ -3,9 +3,6 @@ body{
     h1{
     color: rgb(46, 65, 236);
     }
-    .change{
-        background-image: url("./../../assets/img/proba.png");
-    }
     .autoprefixer {
         user-select: none;
         }
